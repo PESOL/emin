@@ -1,0 +1,72 @@
+[submodule "oca/account-financial-reporting"]
+	path = oca/account-financial-reporting
+	url = https://github.com/oca/account-financial-reporting.git
+	branch = 16.0
+[submodule "oca/account-financial-tools"]
+	path = oca/account-financial-tools
+	url = https://github.com/oca/account-financial-tools.git
+	branch = 16.0
+[submodule "oca/account-invoicing"]
+	path = oca/account-invoicing
+	url = https://github.com/oca/account-invoicing.git
+	branch = 16.0
+[submodule "oca/account-payment"]
+	path = oca/account-payment
+	url = https://github.com/oca/account-payment.git
+	branch = 16.0
+[submodule "oca/bank-payment"]
+	path = oca/bank-payment
+	url = https://github.com/oca/bank-payment.git
+	branch = 16.0
+[submodule "oca/community-data-files"]
+	path = oca/community-data-files
+	url = https://github.com/oca/community-data-files.git
+	branch = 16.0
+[submodule "oca/l10n-spain"]
+	path = oca/l10n-spain
+	url = https://github.com/oca/l10n-spain.git
+	branch = 16.0
+[submodule "oca/mis-builder"]
+	path = oca/mis-builder
+	url = https://github.com/oca/mis-builder.git
+	branch = 16.0
+[submodule "oca/partner-contact"]
+	path = oca/partner-contact
+	url = https://github.com/oca/partner-contact.git
+	branch = 16.0
+[submodule "oca/product-attribute"]
+	path = oca/product-attribute
+	url = https://github.com/oca/product-attribute.git
+	branch = 16.0
+[submodule "oca/project"]
+	path = oca/project
+	url = https://github.com/oca/project.git
+	branch = 16.0
+[submodule "oca/purchase-workflow"]
+	path = oca/purchase-workflow
+	url = https://github.com/oca/purchase-workflow.git
+	branch = 16.0
+[submodule "oca/queue"]
+	path = oca/queue
+	url = https://github.com/oca/queue.git
+	branch = 16.0
+[submodule "oca/reporting-engine"]
+	path = oca/reporting-engine
+	url = https://github.com/oca/reporting-engine.git
+	branch = 16.0
+[submodule "oca/sale-workflow"]
+	path = oca/sale-workflow
+	url = https://github.com/oca/sale-workflow.git
+	branch = 16.0
+[submodule "oca/server-tools"]
+	path = oca/server-tools
+	url = https://github.com/oca/server-tools.git
+	branch = 16.0
+[submodule "oca/server-ux"]
+	path = oca/server-ux
+	url = https://github.com/oca/server-ux.git
+	branch = 16.0
+[submodule "oca/web"]
+	path = oca/web
+	url = https://github.com/oca/web.git
+	branch = 16.0
